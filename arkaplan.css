@@ -16,6 +16,10 @@ body {
     color: magenta;
 }
 
+li {
+    list-style: none;
+}
+
 li>b {
     color: rgb(9, 232, 239);
 }
